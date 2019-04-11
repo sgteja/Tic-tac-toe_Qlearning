@@ -9,10 +9,10 @@ The position of the array is to be entered as the input where we want to place t
 
 Postion on the board to be entered are as follows:
 
-0,0 | 0,1 | 0,2
------------------
-1,0 | 1,1 | 1,2 
------------------
+**0,0 | 0,1 | 0,2**
+**---------------**
+**1,0 | 1,1 | 1,2** 
+**---------------**
 **2,0 | 2,1 | 2,2**
 
 Training of the game can be executed by 
